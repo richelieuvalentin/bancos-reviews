@@ -51,7 +51,6 @@ bancos-reviews/
 │   └── labeled/
 ├── models/
 ├── notebooks/
-│   └── teste.ipynb
 ├── src/
 │   ├── scraper.py
 │   └── preprocessing.py
