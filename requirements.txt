@@ -1,0 +1,5 @@
+pandas
+google-play-scraper
+streamlit
+scikit-learn
+label-studio
